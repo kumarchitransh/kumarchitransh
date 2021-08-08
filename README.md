@@ -23,10 +23,10 @@ My key interest lies solely in sharing my technical expertise with people. I tho
 <p align="center">
 <a href="https://www.linkedin.com/in/kumarchitransh/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.medium.com/@kumarchitransh"><img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/michitranshaahe"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/kumarschitransh"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 <!-- <a href="https://www.facebook.com/arghyadeep.d/"><img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp; -->
-<a href="https://www.instagram.com/michitranshaahe/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="mailto:chitranshpune@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/kumarschitransh/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="mailto:kumar.chitransh-coep@bvucoep.edu.in"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 <!-- <a href="https://t.me/tensor_overflow"><img height="30" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp; -->
 
 </p>
@@ -37,16 +37,16 @@ My key interest lies solely in sharing my technical expertise with people. I tho
 <h2>📊 Github Stats</h2>
 
 <p align="center">
-<a href="https://github.com/kumarchitransh">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=kumarchitransh&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Kumar Chitransh | Stats" />
-</a> <a href="https://github.com/arghyadeep99">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarchitransh&hide=html,css,tsql&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Kumar Chitransh | Top Languages" />
+<a href="https://github.com/kumarschitransh">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=kumarschitransh&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Kumar Chitransh | Stats" />
+</a> <a href="https://github.com/kumarschitransh">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarschitransh&hide=html,css,tsql&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Kumar Chitransh | Top Languages" />
 </a>
 <br>
 
 
 <p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=kumarchitransh&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kumarschitransh&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
 </p>
 <br>
