@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/kumarchitransh/kumarschitransh/blob/main/avatar.png" width="225px">
+  <img src="https://github.com/kumarschitransh/kumarschitransh/blob/main/avatar.png" width="225px">
   <br>
   <p align=center>
-    <img src="https://badges.pufler.dev/visits/kumarchitransh/kumarschitransh?color=black&logo=github" />
+    <img src="https://badges.pufler.dev/visits/kumarschitransh/kumarschitransh?color=black&logo=github" />
     <img src="https://komarev.com/ghpvc/?username=kumarschitransh&color=brightgreen" />
     <a href="https://github.com/kumarschitransh">
     <img src="https://badges.pufler.dev/commits/monthly/kumarschitransh?color=blue" />
